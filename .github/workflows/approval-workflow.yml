@@ -1,4 +1,4 @@
-name: Team awesome's approval workflow test
+name: Team awesome's approval workflow test 3
 on: pull_request_review
 jobs:
   labelWhenApproved:
